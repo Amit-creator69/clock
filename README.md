@@ -1,5 +1,3 @@
-# clock
-A running clock after hover on clock it show alert massage  
 <!DOCTYPE html>
 <html lang="en">
 <head>
